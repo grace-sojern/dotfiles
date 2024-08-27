@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = grace.cheung@sojern.com
+	name = Grace Cheung
